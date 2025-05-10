@@ -66,7 +66,12 @@ You can preview and test the project in one of two ways:
 ## **📷 Screenshots**
 
 > *(Add your screenshots here using the following format)*  
-> `![Screenshot](path-to-screenshot.png)`
+> ![Alt Text](https://github.com/user-attachments/assets/f6ff3ed2-f0a2-4171-901b-06b96cd1a645)
+> ![Alt Text](https://github.com/user-attachments/assets/9c548f94-a000-4184-88b2-72a9ea9534fd)
+> ![Alt Text](https://github.com/user-attachments/assets/9c6ce99e-2ce8-4e4d-b749-49305b2bc8d5)
+
+
+
 
 ---
 
